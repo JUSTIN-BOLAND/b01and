@@ -15,7 +15,7 @@ sections:
       enables you to invest wisely. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
-    title: Investments
+    title: INVESTMENTS
     subtitle: Explore case studies
     layout_style: tiles
     projects_number: 6
