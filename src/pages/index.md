@@ -7,9 +7,10 @@ sections:
     title: >-
       B01AND. Digital Creator based in Puerto Rico. Focusing on Digital
       Identity, Blockchain & Private Investing.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
+    content: >
+      B01AND is a research and analysis practice. I work closely with every
+      project I take on. Every last bit of detail matters. I provide 360 project
+      research analysis that enables you to invest wisely. [Let's
       talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
