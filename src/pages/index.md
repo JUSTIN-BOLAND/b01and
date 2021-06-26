@@ -9,10 +9,10 @@ sections:
       Identity, Blockchain & Private Investing.
     content: >
       B01AND is a research and analysis practice. Utilizing years of corporate
-      growth tactics combined with deep team and financial research. I work
-      closely with every project I take on. Every last bit of detail matters. I
-      provide 360 project research analysis that enables you to invest wisely.
-      [Let's talk](/contact/).
+      growth tactics combined with comprehensive financial and team member
+      background research. I work closely with every project I take on. Every
+      last bit of detail matters. I provide 360 project research analysis that
+      enables you to invest wisely. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     title: Recent Work
