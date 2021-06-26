@@ -71,7 +71,7 @@ sections:
           - Brand implementation and management
           - Typography
       - type: grid_item
-        title: Consumer Experience
+        title: User Experience
         image: images/service-3.svg
         content: |-
           - Digital product design
