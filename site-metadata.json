@@ -39,7 +39,8 @@
                 "url": "/contact/",
                 "style": "button"
             }
-        ]
+        ],
+        "logo": "/images/service-3.svg"
     },
     "footer": {
         "type": "footer",
