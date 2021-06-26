@@ -5,8 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      B01AND. igital Creator based in Puerto Rico. Focusing on Digital Identity,
-      Blockchain & Private Investing.
+      B01AND. Digital Creator based in Puerto Rico. Focusing on Digital
+      Identity, Blockchain & Private Investing.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
