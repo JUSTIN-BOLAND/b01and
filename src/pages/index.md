@@ -45,7 +45,7 @@ sections:
   - type: grid_section
     section_id: services
     title: STRATEGIES
-    subtitle: What types of research and analysis we conduct
+    subtitle: What types of research and analysis I conduct
     col_number: three
     grid_items:
       - type: grid_item
