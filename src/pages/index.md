@@ -59,7 +59,7 @@ sections:
           - Communication strategy
       - type: grid_item
         title: Brand design
-        image: images/service-2.svg
+        image: /images/cta-about.svg
         content: |-
           - Brand development
           - Naming
