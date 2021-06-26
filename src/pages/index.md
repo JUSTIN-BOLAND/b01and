@@ -23,7 +23,7 @@ sections:
     section_id: clients
     title: Clients
     subtitle: A few of the companies we're proud to call partners
-    col_number: three
+    col_number: two
     grid_items:
       - type: grid_item
         image: images/logo-1.svg
