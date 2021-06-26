@@ -82,9 +82,9 @@ sections:
           - Product design
   - type: cta_section
     section_id: cta
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      Say hello at <email@example.com> or tell me more about your project by
+      getting started below.
     actions:
       - type: action
         label: Let's start
