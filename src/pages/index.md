@@ -93,7 +93,6 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
-    title: Let's Connect
 seo:
   type: stackbit_page_meta
   title: Award Winning Agency Based in San Francisco
