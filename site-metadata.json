@@ -81,5 +81,6 @@
             }
         ]
     },
-    "domain": "https://b01and-77dd4.netlify.app"
+    "domain": "https://b01and-77dd4.netlify.app",
+    "favicon": "/images/service-3.svg"
 }
