@@ -44,7 +44,7 @@ sections:
         image_alt: Logo 5
   - type: grid_section
     section_id: services
-    title: Services
+    title: STRATEGIES
     subtitle: What we do
     col_number: three
     grid_items:
