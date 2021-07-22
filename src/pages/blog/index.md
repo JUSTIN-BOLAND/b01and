@@ -29,5 +29,10 @@ seo:
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
+  description: >+
+    Web 3.0 is the third generation of the internet that will focus on
+    decentralizing current systems and provide new ways for users to interact
+    with the web.
+
 template: blog
 ---
