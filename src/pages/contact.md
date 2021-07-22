@@ -4,40 +4,30 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: >
+    content: |
       Let’s build something great together.
+      Complete our contact form or send us an email at 
 
-      Complete our contact form or send us an email at hello \[@] b01and \[.]
-      com
+      \<br>
 
+      hello \[@] b01and \[.] com
 
       ***
 
-
       ## Our Offices
-
 
       ### San Francisco
 
-
       0076 Some St.
-
       San Francisco, CA 12
-
       1-234-556-7891
-
       [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
 
       ### New York
 
-
       1234 S main St.
-
       New York, NY 11987
-
       1-234-556-7891
-
       [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
     form_action: /thank-you
