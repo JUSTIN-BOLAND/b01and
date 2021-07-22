@@ -6,8 +6,9 @@ thumb_image_alt: White desk lamp beside green plant
 image: images/post-6.jpg
 image_alt: Web3 blog image
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Web 3.0 is the third generation of the internet that will focus on
+  decentralizing current systems and provide new ways for users to interact with
+  the web.
 seo:
   type: stackbit_page_meta
   title: The Elements of Great Workplace Design
