@@ -1,7 +1,7 @@
 ---
 title: What is Web3?
 date: '2021-07-22'
-thumb_image: /images/cta-about.svg
+thumb_image: /images/cta.svg
 thumb_image_alt: White desk lamp beside green plant
 image: images/post-6.jpg
 image_alt: Web3 blog image
