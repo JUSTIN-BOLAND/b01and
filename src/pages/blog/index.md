@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   type: stackbit_page_meta
-  title: Journal
+  title: What is Web3?
   extra:
     - name: 'og:type'
       value: website
