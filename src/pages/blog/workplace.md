@@ -1,5 +1,5 @@
 ---
-title: 'What is Web3? '
+title: 'The differences between '
 date: '2021-07-22'
 thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
