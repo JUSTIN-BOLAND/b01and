@@ -40,7 +40,7 @@
                 "style": "button"
             }
         ],
-        "logo": "/images/cta.svg"
+        "logo": "/images/cta-about.svg"
     },
     "footer": {
         "type": "footer",
