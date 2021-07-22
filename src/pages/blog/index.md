@@ -6,7 +6,6 @@ col_number: three
 seo:
   type: stackbit_page_meta
   title: Journal
-  description: This is the journal page
   extra:
     - name: 'og:type'
       value: website
