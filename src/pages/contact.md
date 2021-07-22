@@ -6,9 +6,7 @@ sections:
     section_id: contact-form
     content: |
       Let’s build something great together.
-      Complete our contact form or send us an email at
-
-      \</br>
+      Complete our contact form or send us an email at:
 
       hello \[@] b01and \[.] com
 
