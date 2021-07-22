@@ -1,5 +1,5 @@
 ---
-title: '1, 2 & 3 '
+title: '1, 2 & 3'
 date: '2021-07-22'
 thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
