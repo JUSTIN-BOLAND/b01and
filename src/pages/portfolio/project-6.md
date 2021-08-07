@@ -6,7 +6,7 @@ thumb_image: /images/polite-yam.jpg
 thumb_image_alt: Lukso Investment Analysis & Overview
 sections:
   - type: image_section
-    image: images/work-photography-magazine-1.jpg
+    image: /images/polite-yam.jpg
     image_alt: Subtle 1
     caption: This is the caption of the image
     width: wide
