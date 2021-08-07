@@ -42,7 +42,6 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Uniswap Protocol ($UNI) Investment Analysis & Overview
-  description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
