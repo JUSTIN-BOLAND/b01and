@@ -47,7 +47,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nature Mockup Magazine
+      value: Ethereum ($ETH) Investment Analysis Overview
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
