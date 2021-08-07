@@ -47,7 +47,7 @@ sections:
         label: Team Size
         default_value: 1-150?
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - type: form_field
         input_type: textarea
