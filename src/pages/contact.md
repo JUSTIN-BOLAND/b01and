@@ -29,7 +29,7 @@ sections:
           - Community Management
           - Search Engine Optimization
           - Competitor Analysis
-          - DA
+          - 'Dapp '
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
