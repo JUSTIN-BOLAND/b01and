@@ -1,6 +1,6 @@
 ---
 title: The Graph Protocol
-subtitle: Print
+subtitle: Invest
 date: '2020-02-10'
 thumb_image: /images/Graph-Network-in-depth-part-1-desktop@3x.jpg
 thumb_image_alt: Design Is One preview
