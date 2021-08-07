@@ -3,7 +3,7 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    image: images/about.jpg
+    image: /images/pexels-fauxels-3184465.jpg
     image_alt: Our team in the meeting room
     content: >
       B01AND utilizes corporate growth tactics paired with services such as;
