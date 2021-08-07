@@ -57,8 +57,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Ethereum ($ETH) Investment Analysis Overview
-    - name: 'twitter:description'
-      value: This is the sample project description
     - name: 'twitter:image'
       value: images/work-book-1.jpg
       relativeUrl: true
