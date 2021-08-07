@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: "Let’s build something great together.\nComplete the contact form or send us an email at:\n\nhello \\[@] b01and \\[.] com\n\n***\n\n## Location:\n\nEverywhere \U0001F30D.\n\nAll time-zones welcome.\n"
+    content: "Let’s build something great together.\nComplete the contact form or send us an email at:\n\nhello \\[@] b01and \\[.] com\n\n***\n\n## Location:\n\nEverywhere.\n\nAll time-zones welcome \U0001F30D.\n"
     form_id: contactForm
     form_action: /thank-you
     form_fields:
