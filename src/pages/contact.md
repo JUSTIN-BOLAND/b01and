@@ -29,7 +29,7 @@ sections:
           - Branding
           - Design
           - Digital
-      - input_type: checkbox
+      - input_type: text
         name: Team Size
         label: Team Size
         default_value: lorem-ipsum
