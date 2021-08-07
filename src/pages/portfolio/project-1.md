@@ -53,7 +53,7 @@ seo:
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-poster-1.jpg
+      value: /_static/app-assets/cta-about.svg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
