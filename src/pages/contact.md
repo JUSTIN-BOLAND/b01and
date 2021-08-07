@@ -33,7 +33,7 @@ sections:
           - Content Creation
           - Video Translation
           - Video Transcribing
-          - lorem-ipsum
+          - Blog-To-Video Creation
           - lorem-ipsum
           - lorem-ipsum
       - input_type: text
