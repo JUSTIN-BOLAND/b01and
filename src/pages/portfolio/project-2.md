@@ -5,7 +5,6 @@ thumb_image: /images/royal-stegosaurus.webp
 thumb_image_alt: Basic Attention Token Investment Analysis & Overview
 sections:
   - type: image_section
-    image: images/work-branding-1.jpg
     image_alt: Aimi 1
     caption: This is the caption of the image
     width: wide
