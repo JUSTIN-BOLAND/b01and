@@ -1,5 +1,5 @@
 ---
-title: 'Uniswap '
+title: Uniswap Protocol
 subtitle: Editorial Design
 date: '2020-04-10'
 thumb_image: /images/uniswap.png
