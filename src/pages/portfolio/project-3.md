@@ -47,7 +47,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Uniswap Protocol ($UNI) Investment Analysis Overview
+      value: Uniswap Protocol ($UNI) - Investment Analysis Overview
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/cta-about.svg
