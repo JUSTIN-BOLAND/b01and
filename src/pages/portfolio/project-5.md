@@ -49,9 +49,6 @@ seo:
     - name: 'og:title'
       value: Cardano ($ADA) Investment Analysis Overview
       keyName: property
-    - name: 'og:description'
-      value: This is the sample project description
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Cardano-RGB_Logo-Stack-Black.png
       keyName: property
