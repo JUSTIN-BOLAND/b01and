@@ -1,6 +1,6 @@
 ---
 title: Ethereum
-subtitle: Editorial Design
+subtitle: $ETH Investment Analysis & Overview
 date: '2020-05-10'
 thumb_image: /images/eth.jpg
 thumb_image_alt: Nature Mockup Magazine preview
