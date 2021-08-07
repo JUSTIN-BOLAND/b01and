@@ -38,7 +38,7 @@ sections:
           - Investment Analysis
           - Background Research (individual)
           - Background Research (team)
-          - 'Marketing Audit (exsisting '
+          - 'Marketing Audit (existing '
       - input_type: text
         name: Team Size
         label: Team Size
