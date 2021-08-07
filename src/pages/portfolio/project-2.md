@@ -56,8 +56,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Basic Attention Token ($BAT) - Investment Analysis Overview
-    - name: 'twitter:description'
-      value: This is the sample project description
     - name: 'twitter:image'
       value: /_static/app-assets/cta-about.svg
       relativeUrl: true
