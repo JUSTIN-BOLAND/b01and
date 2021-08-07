@@ -6,7 +6,6 @@ thumb_image: /images/ada.png
 thumb_image_alt: Cardano Investment Analysis & Overview
 sections:
   - type: image_section
-    image: images/work-magazine-1.jpg
     image_alt: Nature Magazine 1
     caption: This is the caption of the image
     width: wide
