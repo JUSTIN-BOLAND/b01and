@@ -6,7 +6,6 @@ thumb_image: /images/uniswap.png
 thumb_image_alt: Uniswap Investment Analysis & Overview
 sections:
   - type: image_section
-    image: images/work-book-cover-1.jpg
     image_alt: The Book 1
     caption: This is the caption of the image
     width: wide
