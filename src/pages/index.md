@@ -98,7 +98,7 @@ sections:
     title: Curious?
 seo:
   type: stackbit_page_meta
-  title: B01AND | 360 DIGITAL RESEARCH
+  title: 'B01AND | DIGITAL SERVICES: IDENTITY / INVESTING / CREATION'
   extra:
     - name: 'og:type'
       value: website
