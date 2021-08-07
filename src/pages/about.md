@@ -6,15 +6,14 @@ sections:
     image: images/about.jpg
     image_alt: Our team in the meeting room
     content: >
-      **B01AND **utilizes corporate growth tactics paired with services such as;
+      B01AND utilizes corporate growth tactics paired with services such as;
       comprehensive financial and team member background research, content
       creation, search engine optimization consulting/management, tokenization
       model breakdowns, video translation (40+) languages, social media
       sentiment tracking/reputation management, community development & much,
       much more. I work closely with every project I take on. Every last bit of
       detail matters. I provide 360 project consulting for product identity,
-      investing & development. 
-
+      investing & development.
 
 
       ##### &#xA;Whether you're the creator or the investor my services enable
