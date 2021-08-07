@@ -47,7 +47,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Cardano ($ADA) Investment Analysis Overview
+      value: Cardano ($ADA) - Investment Analysis Overview
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Cardano-RGB_Logo-Stack-Black.png
