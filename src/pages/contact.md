@@ -78,7 +78,5 @@ seo:
       value: summary
     - name: 'twitter:title'
       value: Contact
-    - name: 'twitter:description'
-      value: This is the contact page
 template: advanced
 ---
