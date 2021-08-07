@@ -53,7 +53,7 @@ seo:
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-magazine-1.jpg
+      value: /_static/app-assets/Cardano-RGB_Logo-Full-White.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
