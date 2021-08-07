@@ -57,8 +57,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: ' The Graph Protocol ($GRT) - Investment Analysis Overview'
-    - name: 'twitter:description'
-      value: This is the sample project description
     - name: 'twitter:image'
       value: images/work-poster-1.jpg
       relativeUrl: true
