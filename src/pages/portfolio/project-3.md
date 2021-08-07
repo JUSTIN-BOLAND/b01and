@@ -60,7 +60,7 @@ seo:
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
-      value: images/work-book-cover-1.jpg
+      value: /_static/app-assets/cta-about.svg
       relativeUrl: true
 template: project
 ---
