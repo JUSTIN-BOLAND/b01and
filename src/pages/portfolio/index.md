@@ -13,7 +13,7 @@ seo:
       value: Investments
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/simple-logo-maker-for-programming-agencies-2374e.png
+      value: /_static/app-assets/b01and%20logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
