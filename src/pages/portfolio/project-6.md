@@ -54,7 +54,7 @@ seo:
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/lukso-logo-ethereal.png
+      value: /_static/app-assets/lukso.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
