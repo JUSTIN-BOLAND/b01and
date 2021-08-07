@@ -3,7 +3,7 @@ title: The Graph Protocol
 subtitle: Investment Analysis & Overview
 date: '2020-02-10'
 thumb_image: /images/Graph-Network-in-depth-part-1-desktop@3x.jpg
-thumb_image_alt: Design Is One preview
+thumb_image_alt: The Graph Protocol Investment Analysis & Overview
 sections:
   - type: image_section
     image: images/work-poster-1.jpg
