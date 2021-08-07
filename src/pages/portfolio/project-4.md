@@ -5,10 +5,6 @@ date: '2020-05-10'
 thumb_image: /images/eth.jpg
 thumb_image_alt: Ethereum Investment Analysis & Overview
 sections:
-  - type: image_section
-    image_alt: Nature Mockup Magazine 1
-    caption: This is the caption of the image
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
