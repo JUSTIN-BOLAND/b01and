@@ -58,7 +58,7 @@ seo:
     - name: 'twitter:title'
       value: Cardano ($ADA) Investment Analysis Overview
     - name: 'twitter:image'
-      value: images/work-magazine-1.jpg
+      value: /_static/app-assets/wonderful-potato.png
       relativeUrl: true
 template: project
 ---
