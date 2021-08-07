@@ -33,6 +33,7 @@ sections:
           - Content Creation
           - Video Translation
           - Video Transcribing
+          - lorem-ipsum
       - input_type: text
         name: Team Size
         label: Team Size
