@@ -1,5 +1,5 @@
 ---
-title: How To Choose An Interior Designer
+title: What Is DEFI? Why Is It So Popular Right Now?
 subtitle: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”.
