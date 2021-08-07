@@ -41,7 +41,7 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: The Graph Protocol ($GRT) - Investment Analysis Overview
+  title: The Graph Protocol ($GRT) - Investment Analysis & Overview
   extra:
     - name: 'og:type'
       value: website
