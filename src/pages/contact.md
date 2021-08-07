@@ -30,7 +30,7 @@ sections:
           - Search Engine Optimization
           - Competitor Analysis
           - Dapp Testing & Controlled Group Testing
-          - lorem-ipsum
+          - Content Creation
           - lorem-ipsum
           - lorem-ipsum
       - input_type: text
