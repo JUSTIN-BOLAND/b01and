@@ -28,7 +28,7 @@ sections:
         options:
           - Community Management
           - Search Engine Optimization
-          - Digital
+          - Competitor Analysis
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
