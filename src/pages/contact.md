@@ -32,7 +32,7 @@ sections:
       - input_type: text
         name: Team Size
         label: Team Size
-        default_value: lorem-ipsum
+        default_value: 1-150?
         options: []
         is_required: false
         type: form_field
