@@ -58,7 +58,7 @@ seo:
     - name: 'twitter:title'
       value: ' The Graph Protocol ($GRT) - Investment Analysis Overview'
     - name: 'twitter:image'
-      value: images/work-poster-1.jpg
+      value: /_static/app-assets/cta-about.svg
       relativeUrl: true
 template: project
 ---
