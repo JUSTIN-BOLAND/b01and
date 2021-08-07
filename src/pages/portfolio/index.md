@@ -1,6 +1,6 @@
 ---
 title: Investments
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: View B01AND investment portfolio paired with strategic analysis & overviews
 layout_style: mosaic
 seo:
   type: stackbit_page_meta
