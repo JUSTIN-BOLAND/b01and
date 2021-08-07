@@ -53,7 +53,7 @@ seo:
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/Ethereum-Symbol.png
+      value: /_static/app-assets/ethereum-logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
