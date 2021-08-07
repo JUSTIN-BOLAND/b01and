@@ -6,7 +6,6 @@ thumb_image: /images/Graph-Network-in-depth-part-1-desktop@3x.jpg
 thumb_image_alt: The Graph Protocol Investment Analysis & Overview
 sections:
   - type: image_section
-    image: images/work-poster-1.jpg
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
