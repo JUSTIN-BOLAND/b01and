@@ -36,6 +36,7 @@ sections:
           - Blog-To-Video Creation
           - Social Media Management
           - Investment Analysis
+          - lorem-ipsum
       - input_type: text
         name: Team Size
         label: Team Size
