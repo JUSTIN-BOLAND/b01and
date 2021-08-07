@@ -23,8 +23,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: Investments
-    - name: 'twitter:description'
-      value: This is the portfolio page
     - name: 'twitter:image'
       value: /_static/app-assets/cta.svg
       relativeUrl: true
