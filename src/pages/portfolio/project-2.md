@@ -48,9 +48,6 @@ seo:
     - name: 'og:title'
       value: Basic Attention Token ($BAT) - Investment Analysis Overview
       keyName: property
-    - name: 'og:description'
-      value: This is the sample project description
-      keyName: property
     - name: 'og:image'
       value: images/work-branding-1.jpg
       keyName: property
