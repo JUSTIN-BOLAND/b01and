@@ -49,7 +49,7 @@ seo:
       value: Basic Attention Token ($BAT) - Investment Analysis Overview
       keyName: property
     - name: 'og:image'
-      value: images/work-branding-1.jpg
+      value: /_static/app-assets/cta-about.svg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
