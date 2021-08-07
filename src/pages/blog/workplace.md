@@ -1,5 +1,5 @@
 ---
-title: What is Web3?
+title: What is Web3 & How Does It Work?
 date: '2021-07-22'
 thumb_image: /images/cta-about.svg
 thumb_image_alt: White desk lamp beside green plant
