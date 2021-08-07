@@ -4,29 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: |
-      Let’s build something great together.
-      Complete our contact form or send us an email at:
-
-      hello \[@] b01and \[.] com
-
-      ***
-
-      ## Our Offices
-
-      ### San Francisco
-
-      0076 Some St.
-      San Francisco, CA 12
-      1-234-556-7891
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-      ### New York
-
-      1234 S main St.
-      New York, NY 11987
-      1-234-556-7891
-      [Get directions →](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+    content: "Let’s build something great together.\nComplete our contact form or send us an email at:\n\nhello \\[@] b01and \\[.] com\n\n***\n\n## Offices:\n\n\U0001F30D.\n\n"
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -48,9 +26,28 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
-          - Design
-          - Digital
+          - Community Management
+          - Search Engine Optimization
+          - Competitor Analysis
+          - Dapp Testing & Controlled Group Testing
+          - Content Creation
+          - Video Translation
+          - Video Transcribing
+          - Blog-To-Video Creation
+          - Social Media Management
+          - Investment Analysis
+          - Background Research (individual)
+          - Background Research (team)
+          - 'Marketing Audit (existing services) '
+          - Exchange Placements
+          - Branding (identity pack & resources)
+      - input_type: text
+        name: Team Size
+        label: Team Size
+        default_value: 1-150?
+        options: []
+        is_required: false
+        type: form_field
       - type: form_field
         input_type: textarea
         name: message
