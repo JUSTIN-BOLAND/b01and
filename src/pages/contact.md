@@ -21,7 +21,7 @@ sections:
         default_value: Your email address
         is_required: true
       - type: form_field
-        input_type: select
+        input_type: checkbox
         name: subject
         label: What services are you looking for?
         default_value: Please select
