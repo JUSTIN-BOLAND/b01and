@@ -8,11 +8,24 @@ sections:
       B01AND. Digital Creator based in Puerto Rico. Focusing on Digital
       Identity, Blockchain & Private Investing.
     content: >
-      B01AND is a research and analysis practice. Utilizing years of corporate
-      growth tactics combined with comprehensive financial and team member
-      background research. I work closely with every project I take on. Every
-      last bit of detail matters. I provide 360 project research analysis that
-      enables you to invest wisely. [Let's talk](/contact/).
+      B01AND utilizes corporate growth tactics paired with services such as;
+      comprehensive financial and team member background research, content
+      creation, search engine optimization consulting/management, tokenization
+      model breakdowns, video translation (40+) languages, social media
+      sentiment tracking/reputation management, community development & much,
+      much more. I work closely with every project I take on. 
+
+      Every last bit of detail matters. 
+
+
+      I provide 360 project consulting for product identity, investing &
+      development.
+
+      Whether you're the creator or the investor my services enable you to
+      invest your time/capital wisely.
+
+
+      [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     title: INVESTMENTS
@@ -119,5 +132,9 @@ seo:
       value: >-
         We are a brand and design practice. We work closely with you, your team
         to deliver inspiring work, which enables your organization to grow.
+  description: >-
+    B01AND offers web3 growth services. Content creation, SEO, video
+    translation/transcribing, social media management, community development &
+    much more.
 template: advanced
 ---
