@@ -57,7 +57,7 @@ seo:
     - name: 'twitter:title'
       value: Basic Attention Token ($BAT) - Investment Analysis Overview
     - name: 'twitter:image'
-      value: /_static/app-assets/cta-about.svg
+      value: /_static/app-assets/BATLogo.png
       relativeUrl: true
 template: project
 subtitle: $BAT Investment Analysis & Overview
