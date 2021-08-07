@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: Cardano
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: /images/ada.png
