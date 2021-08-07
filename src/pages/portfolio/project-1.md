@@ -50,7 +50,7 @@ seo:
       value: ' The Graph Protocol ($GRT) - Investment Analysis Overview'
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/cta-about.svg
+      value: /_static/app-assets/Graph-Network-in-depth-part-1-desktop@3x.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
