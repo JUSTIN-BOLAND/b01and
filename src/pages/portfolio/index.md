@@ -5,7 +5,6 @@ layout_style: mosaic
 seo:
   type: stackbit_page_meta
   title: Investments
-  description: This is the portfolio page
   extra:
     - name: 'og:type'
       value: website
