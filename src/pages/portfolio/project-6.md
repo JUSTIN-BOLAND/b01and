@@ -1,5 +1,5 @@
 ---
-title: Subtle
+title: Lukso Network
 subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: /images/polite-yam.jpg
