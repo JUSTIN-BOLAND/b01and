@@ -42,7 +42,6 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Lukso Network ($LYXE) Investment Analysis & Overview
-  description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
