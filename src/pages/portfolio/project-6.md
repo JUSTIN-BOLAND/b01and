@@ -1,6 +1,6 @@
 ---
 title: Lukso Network
-subtitle: Brand Development
+subtitle: $LYXE Investment Analysis & Overview
 date: '2021-02-06'
 thumb_image: /images/polite-yam.jpg
 thumb_image_alt: Subtle preview
