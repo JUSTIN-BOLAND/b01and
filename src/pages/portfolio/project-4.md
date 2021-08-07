@@ -47,7 +47,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Ethereum ($ETH) Investment Analysis Overview
+      value: Ethereum ($ETH) - Investment Analysis Overview
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/ethereum-logo.png
