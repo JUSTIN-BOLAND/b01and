@@ -5,10 +5,6 @@ date: '2021-01-10'
 thumb_image: /images/ada.png
 thumb_image_alt: Cardano Investment Analysis & Overview
 sections:
-  - type: image_section
-    image_alt: Nature Magazine 1
-    caption: This is the caption of the image
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
