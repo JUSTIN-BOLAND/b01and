@@ -41,7 +41,7 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: Subtle
+  title: Lukso Network ($LYXE) Investment Analysis & Overview
   description: This is the sample project description
   extra:
     - name: 'og:type'
