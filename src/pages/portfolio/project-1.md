@@ -1,5 +1,5 @@
 ---
-title: Design Is One
+title: The Graph Protocol
 subtitle: Print
 date: '2020-02-10'
 thumb_image: /images/Graph-Network-in-depth-part-1-desktop@3x.jpg
