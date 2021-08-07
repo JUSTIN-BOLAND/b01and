@@ -98,13 +98,13 @@ sections:
     title: Curious?
 seo:
   type: stackbit_page_meta
-  title: B01AND | 360 DIGITAL RESEARCH
+  title: 'B01AND | DIGITAL SERVICES: IDENTITY / INVESTING / CREATION'
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: 'B01AND | DIGITAL SERVICES: IDENTITY / INVESTING / CREATION'
       keyName: property
     - name: 'og:description'
       value: >-
@@ -114,7 +114,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Award Winning Agency Based in San Francisco
+      value: 'B01AND | DIGITAL SERVICES: IDENTITY / INVESTING / CREATION'
     - name: 'twitter:description'
       value: >-
         We are a brand and design practice. We work closely with you, your team
