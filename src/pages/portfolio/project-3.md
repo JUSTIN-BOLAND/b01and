@@ -49,9 +49,6 @@ seo:
     - name: 'og:title'
       value: Uniswap Protocol ($UNI) Investment Analysis Overview
       keyName: property
-    - name: 'og:description'
-      value: This is the sample project description
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/cta-about.svg
       keyName: property
