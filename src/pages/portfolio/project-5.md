@@ -1,6 +1,6 @@
 ---
 title: Cardano
-subtitle: Editorial Design
+subtitle: $ADA Investment Analysis & Overview
 date: '2021-01-10'
 thumb_image: /images/ada.png
 thumb_image_alt: Nature Magazine preview
