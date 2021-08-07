@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Book
+      value: Uniswap Protocol ($UNI) Investment Analysis Overview
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
