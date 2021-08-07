@@ -1,5 +1,5 @@
 ---
-title: Aimi
+title: Basic Attention Token
 subtitle: Brand Development
 date: '2020-03-10'
 thumb_image: /images/royal-stegosaurus.webp
