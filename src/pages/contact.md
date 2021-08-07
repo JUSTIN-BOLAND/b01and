@@ -32,7 +32,7 @@ sections:
           - Dapp Testing & Controlled Group Testing
           - Content Creation
           - Video Translation
-          - lorem-ipsum
+          - Video Transcribing
       - input_type: text
         name: Team Size
         label: Team Size
