@@ -4,7 +4,7 @@ subtitle: This is an optional subtitle for the portfolio page
 layout_style: mosaic
 seo:
   type: stackbit_page_meta
-  title: Portfolio
+  title: Investments
   description: This is the portfolio page
   extra:
     - name: 'og:type'
