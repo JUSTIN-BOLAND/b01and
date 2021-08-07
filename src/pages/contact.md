@@ -40,7 +40,7 @@ sections:
           - Background Research (team)
           - 'Marketing Audit (existing services) '
           - Exchange Placements
-          - lorem-ipsum
+          - 'Branding '
       - input_type: text
         name: Team Size
         label: Team Size
