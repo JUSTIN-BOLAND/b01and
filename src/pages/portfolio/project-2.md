@@ -4,10 +4,6 @@ date: '2020-03-10'
 thumb_image: /images/royal-stegosaurus.webp
 thumb_image_alt: Basic Attention Token Investment Analysis & Overview
 sections:
-  - type: image_section
-    image_alt: Aimi 1
-    caption: This is the caption of the image
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
