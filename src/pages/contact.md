@@ -30,6 +30,7 @@ sections:
           - Design
           - Digital
           - lorem-ipsum
+          - lorem-ipsum
       - input_type: text
         name: Team Size
         label: Team Size
