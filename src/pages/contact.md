@@ -29,7 +29,7 @@ sections:
           - Community Management
           - Search Engine Optimization
           - Competitor Analysis
-          - 'Dapp Testing & Screen '
+          - 'Dapp Testing & Group '
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
