@@ -98,7 +98,7 @@ sections:
   - type: cta_section
     section_id: cta
     content: >
-      Say hello at hello@B01AND.COM or tell me more about your project by
+      Say hello at hello@B01AND.com or tell me more about your project by
       getting started below.
     actions:
       - type: action
