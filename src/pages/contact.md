@@ -29,7 +29,7 @@ sections:
           - Community Management
           - Search Engine Optimization
           - Competitor Analysis
-          - Dapp Testing & Controlled Group Reporting
+          - Dapp Testing & Controlled Group Testing
           - lorem-ipsum
           - lorem-ipsum
           - lorem-ipsum
