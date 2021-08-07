@@ -5,15 +5,23 @@ sections:
   - type: content_section
     image: images/about.jpg
     image_alt: Our team in the meeting room
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >
+      B01AND utilizes corporate growth tactics paired with services such as;
+      comprehensive financial and team member background research, content
+      creation, search engine optimization consulting/management, tokenization
+      model breakdowns, video translation (40+) languages, social media
+      sentiment tracking/reputation management, community development & much,
+      much more. I work closely with every project I take on. Every last bit of
+      detail matters.
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+
+      I provide 360 project consulting for product identity, investing &
+      development. Whether you're the creator or the investor my services enable
+      you to invest your time/capital wisely.
+
+
+      [Let's talk](https://b01and.com/contact/).
   - type: grid_section
     section_id: team
     title: The Team
