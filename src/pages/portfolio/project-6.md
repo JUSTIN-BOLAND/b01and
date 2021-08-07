@@ -47,7 +47,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Lukso Network ($LYXE) Investment Analysis Overview
+      value: Lukso Network ($LYXE) - Investment Analysis Overview
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/lukso.jpg
