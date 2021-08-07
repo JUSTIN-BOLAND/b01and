@@ -41,7 +41,7 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: Design Is One
+  title: The Graph Protocol ($GRT) - Investment Analysis Overview
   description: This is the sample project description
   extra:
     - name: 'og:type'
