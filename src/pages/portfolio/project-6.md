@@ -5,10 +5,6 @@ date: '2021-02-06'
 thumb_image: /images/polite-yam.jpg
 thumb_image_alt: Lukso Investment Analysis & Overview
 sections:
-  - type: image_section
-    image_alt: Subtle 1
-    caption: This is the caption of the image
-    width: wide
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
