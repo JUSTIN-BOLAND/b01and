@@ -50,7 +50,7 @@ seo:
       value: Uniswap Protocol ($UNI) - Investment Analysis Overview
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/cta-about.svg
+      value: /_static/app-assets/256x256_App_Icon_Gradient.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
