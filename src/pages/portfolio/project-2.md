@@ -41,7 +41,6 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Basic Attention Token ($BAT) - Investment Analysis Overview
-  description: This is the sample project description
   extra:
     - name: 'og:type'
       value: website
