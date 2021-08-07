@@ -46,7 +46,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Aimi
+      value: Basic Attention Token ($BAT) - Investment Analysis Overview
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
