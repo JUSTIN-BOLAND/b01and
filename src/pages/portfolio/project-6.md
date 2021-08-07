@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Lukso Network ($LYXE) Investment Analysis Overview
+      value: Lukso Network ($LYXE) - Investment Analysis Overview
     - name: 'twitter:image'
       value: /_static/app-assets/lukso.jpg
       relativeUrl: true
