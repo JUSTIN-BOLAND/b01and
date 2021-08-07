@@ -2,7 +2,7 @@
 title: Nature Mockup Magazine
 subtitle: Editorial Design
 date: '2020-05-10'
-thumb_image: /images/Ethereum-Symbol.png
+thumb_image: /images/eth.jpg
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
