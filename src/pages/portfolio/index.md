@@ -12,9 +12,6 @@ seo:
     - name: 'og:title'
       value: Portfolio
       keyName: property
-    - name: 'og:description'
-      value: This is the portfolio page
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/cta.svg
       keyName: property
