@@ -40,7 +40,7 @@ sections:
           - Background Research (team)
           - 'Marketing Audit (existing services) '
           - Exchange Placements
-          - 'Branding (identity '
+          - Branding (identity pack
       - input_type: text
         name: Team Size
         label: Team Size
