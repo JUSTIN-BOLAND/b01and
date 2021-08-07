@@ -2,7 +2,7 @@
 title: The Book
 subtitle: Editorial Design
 date: '2020-04-10'
-thumb_image: /images/chainlink.jpg
+thumb_image: /images/elite-cabbage.jpg
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
