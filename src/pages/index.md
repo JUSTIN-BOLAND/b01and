@@ -132,15 +132,9 @@ seo:
       value: >-
         We are a brand and design practice. We work closely with you, your team
         to deliver inspiring work, which enables your organization to grow.
-  description: >
-    Utilizing years of corporate growth tactics combined with comprehensive
-    financial and team member background research. I work closely with every
-    project I take on. Every last bit of detail matters. I provide 360 project
-    consulting for product identity, investing & development.
-
-    Whether you're the creator or the investor my services enable you to invest
-    your time/capital wisely.
-
-    Let's talk.
+  description: >-
+    B01AND offers web3 growth services. Content creation, SEO, video
+    translation/transcribing, social media management, community development &
+    much more.
 template: advanced
 ---
