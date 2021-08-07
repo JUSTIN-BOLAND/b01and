@@ -58,7 +58,7 @@ seo:
     - name: 'twitter:title'
       value: Uniswap Protocol ($UNI) - Investment Analysis Overview
     - name: 'twitter:image'
-      value: /_static/app-assets/cta-about.svg
+      value: /_static/app-assets/640x640_Black-1.png
       relativeUrl: true
 template: project
 ---
