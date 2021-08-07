@@ -1,5 +1,5 @@
 ---
-title: The Revolution Will Be Decentralized
+title: The Revolution Will Be Decentralized.
 date: '2021-01-05'
 thumb_image: images/post-4-thumb.jpg
 thumb_image_alt: White concrete building
