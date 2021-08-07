@@ -37,6 +37,7 @@ sections:
           - Social Media Management
           - Investment Analysis
           - Background Research (individual or company)
+          - lorem-ipsum
       - input_type: text
         name: Team Size
         label: Team Size
