@@ -1,7 +1,7 @@
 ---
 title: What Are Blockchain Protocols? Why Do They Matter?
 date: '2020-12-27'
-thumb_image: images/post-3-thumb.jpg
+thumb_image: /images/service-3.svg
 thumb_image_alt: Black white calendar
 image: images/post-3.jpg
 image_alt: Black white calendar
