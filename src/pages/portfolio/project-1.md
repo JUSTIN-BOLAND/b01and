@@ -47,7 +47,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Design Is One
+      value: ' The Graph Protocol ($GRT) - Investment Analysis Overview'
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
