@@ -40,7 +40,7 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: Aimi
+  title: Basic Attention Token ($BAT) - Investment Analysis Overview
   description: This is the sample project description
   extra:
     - name: 'og:type'
