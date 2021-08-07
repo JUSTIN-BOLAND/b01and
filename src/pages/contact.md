@@ -31,7 +31,7 @@ sections:
           - Competitor Analysis
           - Dapp Testing & Controlled Group Testing
           - Content Creation
-          - lorem-ipsum
+          - 'Video '
           - lorem-ipsum
       - input_type: text
         name: Team Size
