@@ -35,7 +35,7 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
-    section_id: Services
+    section_id: Partners
     title: PARTNERS
     subtitle: A few of the companies we're proud to call partners
     col_number: three
