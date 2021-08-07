@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: Investments
     - name: 'twitter:image'
-      value: /_static/app-assets/cta.svg
+      value: /_static/app-assets/simple-logo-maker-for-programming-agencies-2374e.png
       relativeUrl: true
 template: portfolio
 ---
