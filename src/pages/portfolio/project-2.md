@@ -40,7 +40,7 @@ sections:
       arcu accumsan lorem amet accumsan.
 seo:
   type: stackbit_page_meta
-  title: Basic Attention Token ($BAT) - Investment Analysis Overview
+  title: Basic Attention Token ($BAT) - Investment Analysis & Overview
   extra:
     - name: 'og:type'
       value: website
