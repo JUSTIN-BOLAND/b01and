@@ -25,7 +25,7 @@ sections:
     section_id: team
     title: The Team
     subtitle: An optional subtitle of the section
-    col_number: three
+    col_number: two
     grid_items:
       - type: grid_item
         title: Gustav Purpleson
