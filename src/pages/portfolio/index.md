@@ -1,6 +1,6 @@
 ---
 title: Investments
-subtitle: View B01AND investment portfolio paired with strategic analysis & overviews
+subtitle: Investment portfolio paired with strategic analysis & overviews
 layout_style: mosaic
 seo:
   type: stackbit_page_meta
@@ -13,7 +13,7 @@ seo:
       value: Investments
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/cta.svg
+      value: /_static/app-assets/b01and%20logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: Investments
     - name: 'twitter:image'
-      value: /_static/app-assets/cta.svg
+      value: /_static/app-assets/important-wallaby.png
       relativeUrl: true
 template: portfolio
 ---
