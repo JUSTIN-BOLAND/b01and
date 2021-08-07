@@ -41,6 +41,7 @@ sections:
           - 'Marketing Audit (existing services) '
           - Exchange Placements
           - Branding (identity pack & resources)
+        is_required: true
       - input_type: text
         name: Team Size
         label: Team Size
