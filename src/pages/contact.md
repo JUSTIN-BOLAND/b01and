@@ -35,7 +35,7 @@ sections:
           - Video Transcribing
           - Blog-To-Video Creation
           - Social Media Management
-          - lorem-ipsum
+          - Investment Analysis
       - input_type: text
         name: Team Size
         label: Team Size
