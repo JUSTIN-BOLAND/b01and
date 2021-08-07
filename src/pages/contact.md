@@ -30,7 +30,7 @@ sections:
           - Design
           - Digital
       - input_type: text
-        name: 1-
+        name: Team Size
         label: Team Size
         default_value: lorem-ipsum
         options: []
