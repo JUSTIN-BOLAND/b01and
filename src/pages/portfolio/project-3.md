@@ -2,7 +2,7 @@
 title: The Book
 subtitle: Editorial Design
 date: '2020-04-10'
-thumb_image: /images/640x640_Black-1.png
+thumb_image: /images/uniswap.png
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
