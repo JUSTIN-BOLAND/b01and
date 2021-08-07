@@ -1,9 +1,9 @@
 ---
-title: The Book
-subtitle: Editorial Design
+title: Uniswap Protocol
+subtitle: $UNI Investment Analysis & Overview
 date: '2020-04-10'
 thumb_image: /images/uniswap.png
-thumb_image_alt: The Book preview
+thumb_image_alt: Uniswap Investment Analysis & Overview
 sections:
   - type: image_section
     image: images/work-book-cover-1.jpg

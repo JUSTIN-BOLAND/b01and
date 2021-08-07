@@ -1,9 +1,8 @@
 ---
-title: Aimi
-subtitle: Brand Development
+title: Basic Attention Token
 date: '2020-03-10'
 thumb_image: /images/royal-stegosaurus.webp
-thumb_image_alt: Aimi preview
+thumb_image_alt: Basic Attention Token Investment Analysis & Overview
 sections:
   - type: image_section
     image: images/work-branding-1.jpg
@@ -72,4 +71,5 @@ seo:
       value: images/work-branding-1.jpg
       relativeUrl: true
 template: project
+subtitle: $BAT Investment Analysis & Overview
 ---

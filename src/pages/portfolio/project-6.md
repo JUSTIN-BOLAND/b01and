@@ -1,9 +1,9 @@
 ---
-title: Subtle
-subtitle: Brand Development
+title: Lukso Network
+subtitle: $LYXE Investment Analysis & Overview
 date: '2021-02-06'
 thumb_image: /images/polite-yam.jpg
-thumb_image_alt: Subtle preview
+thumb_image_alt: Lukso Investment Analysis & Overview
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
