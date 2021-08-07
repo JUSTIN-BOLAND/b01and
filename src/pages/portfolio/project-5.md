@@ -2,7 +2,7 @@
 title: Nature Magazine
 subtitle: Editorial Design
 date: '2021-01-10'
-thumb_image: /images/Cardano-RGB_Logo-Icon-White.png
+thumb_image: /images/CMC_CharlesHoskinson_Interview_1440x530.jpg
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
