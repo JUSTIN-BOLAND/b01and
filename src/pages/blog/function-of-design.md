@@ -1,5 +1,5 @@
 ---
-title: The function of design is letting design function
+title: What Decentralized Exchanges? Why Should I use it?
 subtitle: A interesting tale about function of design
 date: '2020-01-15'
 thumb_image: images/post-1-thumb.jpg
