@@ -58,7 +58,7 @@ seo:
     - name: 'twitter:title'
       value: Ethereum ($ETH) Investment Analysis Overview
     - name: 'twitter:image'
-      value: images/work-book-1.jpg
+      value: /_static/app-assets/ethereum-logo.png
       relativeUrl: true
 template: project
 ---
