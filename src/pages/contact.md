@@ -31,7 +31,7 @@ sections:
           - Digital
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Team Size
         default_value: lorem-ipsum
         options: []
         is_required: false
