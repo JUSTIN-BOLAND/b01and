@@ -34,7 +34,7 @@ sections:
           - Video Translation
           - Video Transcribing
           - Blog-To-Video Creation
-          - lorem-ipsum
+          - Social
           - lorem-ipsum
       - input_type: text
         name: Team Size
