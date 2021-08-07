@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: "Let’s build something great together.\nComplete our contact form or send us an email at:\n\nhello \\[@] b01and \\[.] com\n\n***\n\n## Offices:\n\n\U0001F30D.\n\n"
+    content: "##### Let’s build something great together.&#xA;Complete the contact form or send us an email at:\n\nhello \\[@] b01and \\[.] com\n\n***\n\n## Location:\n\nEverywhere.\n\nAll time-zones welcome \U0001F30D.\n"
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -21,9 +21,9 @@ sections:
         default_value: Your email address
         is_required: true
       - type: form_field
-        input_type: select
+        input_type: text
         name: subject
-        label: What services are you looking for?
+        label: What service are you looking for?
         default_value: Please select
         options:
           - Community Management
@@ -41,12 +41,13 @@ sections:
           - 'Marketing Audit (existing services) '
           - Exchange Placements
           - Branding (identity pack & resources)
+        is_required: true
       - input_type: text
         name: Team Size
         label: Team Size
         default_value: 1-150?
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - type: form_field
         input_type: textarea
