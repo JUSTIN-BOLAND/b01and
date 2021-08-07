@@ -50,9 +50,6 @@ seo:
     - name: 'og:title'
       value: Lukso Network ($LYXE) Investment Analysis Overview
       keyName: property
-    - name: 'og:description'
-      value: This is the sample project description
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/lukso.jpg
       keyName: property
