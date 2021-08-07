@@ -112,11 +112,15 @@ sections:
   - type: cta_section
     section_id: cta
     title: Become a Team Player
-    content: >-
+    content: >
       We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+      interested in working for Agency, please send an email to hello \[@]
+      B01AND \[.] com with your resume and which position you are interested in.
+
+
+
+      ###### &#xA;Note: Please include the word \[DECENTRALIZE] in the subject
+      line.&#xA;&#xA;
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
