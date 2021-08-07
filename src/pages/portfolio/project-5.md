@@ -2,7 +2,7 @@
 title: Nature Magazine
 subtitle: Editorial Design
 date: '2021-01-10'
-thumb_image: /images/The-Graph-Network-desktop.png
+thumb_image: /images/Cardano-RGB_Logo-Stack-White.png
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
