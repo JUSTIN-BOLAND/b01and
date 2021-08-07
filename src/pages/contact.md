@@ -38,6 +38,7 @@ sections:
           - Investment Analysis
           - Background Research (individual)
           - Background Research (team)
+          - lorem-ipsum
       - input_type: text
         name: Team Size
         label: Team Size
