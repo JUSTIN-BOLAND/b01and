@@ -71,4 +71,5 @@ seo:
       value: images/work-branding-1.jpg
       relativeUrl: true
 template: project
+subtitle: $BAT Investment Analysis & Overview
 ---
