@@ -1,6 +1,6 @@
 ---
 title: Investments
-subtitle: View B01AND investment portfolio paired with strategic analysis & overviews
+subtitle: Investment portfolio paired with strategic analysis & overviews
 layout_style: mosaic
 seo:
   type: stackbit_page_meta
