@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Community Management
-          - Design
+          - Search Engine Optimization
           - Digital
           - lorem-ipsum
           - lorem-ipsum
