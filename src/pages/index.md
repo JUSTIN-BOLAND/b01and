@@ -30,7 +30,7 @@ sections:
     section_id: latest-projects
     title: INVESTMENTS
     subtitle: Explore investment use cases & research
-    layout_style: mosaic
+    layout_style: tiles
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
