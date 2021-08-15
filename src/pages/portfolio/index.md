@@ -24,4 +24,5 @@ seo:
       value: /_static/app-assets/important-wallaby.png
       relativeUrl: true
 template: portfolio
+hide_title: true
 ---
