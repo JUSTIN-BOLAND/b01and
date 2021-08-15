@@ -38,7 +38,7 @@ sections:
     section_id: Partners
     title: PARTNERS
     subtitle: A few of the companies we're proud to call partners
-    col_number: three
+    col_number: two
     grid_items:
       - type: grid_item
         image: images/logo-1.svg
