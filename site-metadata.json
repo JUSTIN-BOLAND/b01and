@@ -2,7 +2,7 @@
     "title": "BO1AND | 360 DIGITAL RESEARCHER",
     "color_scheme": "dark",
     "accent_color": "green",
-    "base_font": "karla",
+    "base_font": "system-sans",
     "header": {
         "type": "header",
         "title": "B01AND",
